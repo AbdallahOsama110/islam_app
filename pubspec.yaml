@@ -1,0 +1,181 @@
+name: islam_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.5.3 <4.0.0"
+
+dependencies:
+  bloc: ^8.1.2
+  conditional_builder_null_safety: ^0.0.6
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  fluttertoast: ^8.2.2
+  go_router: ^14.2.0
+  jhijri: ^1.0.0
+  arabic_numbers: ^1.0.0
+  intl: ^0.19.0
+  shared_preferences: ^2.2.1
+  sizer: ^2.0.15
+  smooth_page_indicator: ^1.1.0
+  adhan: ^2.0.0+1
+  google_maps_flutter: ^2.5.3
+  geolocator: ^13.0.1
+  geocoding: ^3.0.0
+  flutter_qiblah: ^3.0.3
+  google_fonts: ^6.2.1
+  flutter_local_notifications: ^17.2.1
+  android_alarm_manager_plus: ^4.0.3
+  quran: ^1.2.9
+  flutter_islamic_icons: ^1.0.2
+  permission_handler: ^11.3.1
+  flutter_expandable_fab: ^2.1.0
+  audioplayers: ^6.0.0
+  confetti: ^0.7.0
+
+dev_dependencies:
+  build_runner: null
+  flutter_gen_runner: null
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/shared/
+    - assets/images/onboarding/
+    - assets/images/qibla/
+    - assets/images/quran/
+    - assets/images/tasbeh/
+    - assets/images/azkar/
+    - assets/azkar/
+    - assets/audio/001/
+    - assets/audio/002/
+    - assets/audio/003/
+    - assets/audio/004/
+    - assets/audio/005/
+    - assets/audio/006/
+    - assets/audio/007/
+    - assets/audio/008/
+    - assets/audio/009/
+    - assets/audio/010/
+    - assets/audio/011/
+    - assets/audio/012/
+    - assets/audio/013/
+    - assets/audio/014/
+    - assets/audio/015/
+    - assets/audio/016/
+    - assets/audio/017/
+    - assets/audio/018/
+    - assets/audio/019/
+    - assets/audio/020/
+    - assets/audio/021/
+    - assets/audio/022/
+    - assets/audio/023/
+    - assets/audio/024/
+    - assets/audio/025/
+    - assets/audio/026/
+    - assets/audio/027/
+    - assets/audio/028/
+    - assets/audio/029/
+    - assets/audio/030/
+    - assets/audio/031/
+    - assets/audio/032/
+    - assets/audio/033/
+    - assets/audio/034/
+    - assets/audio/035/
+    - assets/audio/036/
+    - assets/audio/037/
+    - assets/audio/038/
+    - assets/audio/039/
+    - assets/audio/040/
+    - assets/audio/041/
+    - assets/audio/042/
+    - assets/audio/043/
+    - assets/audio/044/
+    - assets/audio/045/
+    - assets/audio/046/
+    - assets/audio/047/
+    - assets/audio/048/
+    - assets/audio/049/
+    - assets/audio/050/
+    - assets/audio/051/
+    - assets/audio/052/
+    - assets/audio/053/
+    - assets/audio/054/
+    - assets/audio/055/
+    - assets/audio/056/
+    - assets/audio/057/
+    - assets/audio/058/
+    - assets/audio/059/
+    - assets/audio/060/
+    - assets/audio/061/
+    - assets/audio/062/
+    - assets/audio/063/
+    - assets/audio/064/
+    - assets/audio/065/
+    - assets/audio/066/
+    - assets/audio/067/
+    - assets/audio/068/
+    - assets/audio/069/
+    - assets/audio/070/
+    - assets/audio/071/
+    - assets/audio/072/
+    - assets/audio/073/
+    - assets/audio/074/
+    - assets/audio/075/
+    - assets/audio/076/
+    - assets/audio/077/
+    - assets/audio/078/
+    - assets/audio/079/
+    - assets/audio/080/
+    - assets/audio/081/
+    - assets/audio/082/
+    - assets/audio/083/
+    - assets/audio/084/
+    - assets/audio/085/
+    - assets/audio/086/
+    - assets/audio/087/
+    - assets/audio/088/
+    - assets/audio/089/
+    - assets/audio/090/
+    - assets/audio/091/
+    - assets/audio/092/
+    - assets/audio/093/
+    - assets/audio/094/
+    - assets/audio/095/
+    - assets/audio/096/
+    - assets/audio/097/
+    - assets/audio/098/
+    - assets/audio/099/
+    - assets/audio/100/
+    - assets/audio/101/
+    - assets/audio/102/
+    - assets/audio/103/
+    - assets/audio/104/
+    - assets/audio/105/
+    - assets/audio/106/
+    - assets/audio/107/
+    - assets/audio/108/
+    - assets/audio/109/
+    - assets/audio/110/
+    - assets/audio/111/
+    - assets/audio/112/
+    - assets/audio/113/
+    - assets/audio/114/
+
+  fonts:
+    - family: me_quran
+      fonts:
+        - asset: assets/fonts/me_quran.ttf
+
+
+flutter_intl:
+  enabled: true
