@@ -71,6 +71,8 @@ lib/
 └── main.dart                   # Entry point
 ```
 
+---
+
 ## 🚀 Getting Started
 
 ### Requirements
@@ -90,3 +92,6 @@ lib/
    ```bash
    flutter run
 
+---
+### 🙌 Teamwork
+Special thanks to [Ahmed Ibrahim](https://github.com/AhmedIbrahim2003) for the great teamwork and contributions to this project!
