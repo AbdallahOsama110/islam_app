@@ -16,7 +16,55 @@ A modern Flutter application designed to assist Muslims in their daily spiritual
 - 📱 Responsive UI for phones and tablets
 
 ---
+## 🎬 Project Demo
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=SXGznyurGGU" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1oYVUM0p0EwcqjbixOKiJp1Gf4cxnud0K" alt="InterVysor Demo Video" width="100%">
+  </a>
+</div>
+
+---
+
+## 📱 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">Onboarding</td>
+      <td align="center">Home</td>
+      <td align="center">Quran</td>
+      <td align="center">Surah</td>
+      <td align="center">Verse Option</td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1kER5lH0MqHtXXMrpAv2jQH8QGQSEGRMw" width="200"></td>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1k7xG2qTUtxocJjgWraF9bnTS-cq-tSJY" width="200"></td>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1k1Z4NPA1GuHaLP7yEm3gQKRgZk0KWK8r" width="200"></td>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1k7vfpNHnjSodJ59Ehf7bR-6ulX4bdP9F" width="200"></td>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1kEF0LpmnVbJy1Tz7lO-gc-w7j4dD0x5t" width="200"></td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center">Qibla</td>
+      <td align="center">Tasbih & Azkar</td>
+      <td align="center">Azkar Categories</td>
+      <td align="center">Azkar</td>
+      <td align="center">Zekr Details</td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1jxlTU1WIXptcu0u-ixUnniIEIlJx7auV" width="200"></td>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1kB08gjmgFuZWKmgGUctGwHxvuB7rjXbk" width="200"></td>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1k5SImpbsE9OiEV-CVbrU8KmuvGY9nbSA" width="200"></td>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1k0RFLe2FzpqBbsv86DEN27w8VASuA9_y" width="200"></td>
+      <td align="center" width="20%"><img src="https://drive.google.com/uc?export=view&id=1k1uTi7QdosRRL_i5pzbOAJOe5l1_CI7q" width="200"></td>
+    </tr>
+  </table>
+</div>
+<img src="https://drive.google.com/uc?export=view&id=1CbcryM0I9_k1dKBeerT6VJXQOVVXWSST" alt="InterVysor Demo Video" width="100%">
+
+---
 ## 🛠️ Built With
 
 | Area                    | Package / Tool                       |
